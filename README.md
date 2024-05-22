@@ -1,8 +1,6 @@
 <h1 alinear="centro">Hi there🙋‍♂️!, I´m Diego. Welcome to my Github!</h1>
 
-<p align="center">
-<img alt="GIF" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" height="280" />
- <p/>
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
