@@ -1,4 +1,4 @@
-<h1 alinear="centro">Hi there🙋‍♂️!, I´m Diego. Welcome to my Github!</h1>
+<h1 align="center">Hi there🙋‍♂️!, I´m Diego. Welcome to my Github!</h1>
 
 
 
