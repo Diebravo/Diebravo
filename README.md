@@ -1,5 +1,9 @@
 <h1 align="center">Hi there🙋‍♂️!, I´m Diego. Welcome to my Github!</h1>
 
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
